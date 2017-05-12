@@ -10,6 +10,7 @@
 * [日志工具 logger](https://github.com/orhanobut/logger)
 * [漂亮的进度条显示 NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
 * [侧滑，类似QQ侧滑删除 AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+* [类似QQ侧滑删除 SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
 * [recyclerview动画 recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 * [高亮 ShowcaseView](https://github.com/amlcurran/ShowcaseView)
@@ -33,7 +34,11 @@
 * [竖直方向的viewpager VerticalViewPager](https://github.com/castorflex/VerticalViewPager)
 * [底部导航栏 BottomNavigationBar](https://github.com/RoyWallace/BottomNavigationBar)
 * [Recyclerview分割线 RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
-
+* [底部导航栏 Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
+* [google flexbox-layout](https://github.com/google/flexbox-layout)
+* [下拉刷新控件 CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)
+* [segmentControl SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
+* [segmentControl android-segmented-control](https://github.com/Kaopiz/android-segmented-control)
 
 ## 开源库
 * [Rxjava](https://github.com/ReactiveX/RxJava)
@@ -41,10 +46,17 @@
 * [GreenDao](https://github.com/greenrobot/greenDAO)
 * [事件总线 otto](https://github.com/square/otto)
 * [Realm](https://github.com/realm/realm-java)
+* [RxLife 防止rxjava使用内存泄露](https://github.com/trello/RxLifecycle)
+* [glide-transformation gilde的图片形状转换](https://github.com/wasabeef/glide-transformations)
+* [Android开发工具类 AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
 ## 开源项目
 
 ## 实战
+* [BookReader 小说阅读器](https://github.com/JustWayward/BookReader)
+* [Android-ZBLibrary 快速开发框架](https://github.com/TommyLemon/Android-ZBLibrary)
+* [diycode diycode的手机客户端](https://github.com/GcsSloop/diycode)
+* []()
 
 ## Android文章
 * [Toolbar、Platter的使用](http://blog.csdn.net/jdsjlzx/article/details/41441083)
@@ -58,6 +70,7 @@
 * [WebView内存泄露分析](http://blog.csdn.net/csdnedu/article/details/52955439)
 * [WebView内存泄露分析](https://my.oschina.net/zhibuji/blog/100580)
 * [新控件 新Api介绍](http://www.jianshu.com/u/0ad0a0afc409)
+* [EmptyLayout 空视图封装](http://blog.csdn.net/ghost_Programmer/article/details/52489996)
 ## java文章
 
 ## 面试相关
@@ -72,6 +85,9 @@
 * [开发中所遇问题归纳](http://jingbin.me/2017/11/23/%E5%BC%80%E5%8F%91%E4%B8%AD%E6%89%80%E9%81%87%E9%97%AE%E9%A2%98%E5%BD%92%E7%BA%B3/)
 * [Arisono 的收集书签](https://github.com/Arisono/android-bookmark-shares)
 * [Android学习资料总结](https://github.com/Freelander/Android_Data)
+* [hujiaweibujidao的收集总结](https://github.com/hujiaweibujidao/AndroidInterviews)
+* [GeniusVJR的收集总结](https://github.com/GeniusVJR/LearningNotes)
+* [Blankj的LeetCode记录](https://github.com/Blankj/awesome-java-leetcode)
 
 ## 导航站
 * [极客导航](http://www.jikedaohang.com/)
