@@ -5,6 +5,7 @@
 * [漂亮的dialog sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
 * [漂亮的loading动画 AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 * [图片裁剪库 uCrop](https://github.com/Yalantis/uCrop)
+* [图片裁剪库 android-crop](https://github.com/jdamcd/android-crop)
 * [Md风格的EditText MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
 * [日志工具 logger](https://github.com/orhanobut/logger)
 * [漂亮的进度条显示 NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
@@ -29,6 +30,10 @@
 * [MaterialViewPager] (https://github.com/florent37/MaterialViewPager)
 * [下拉刷新 上拉加载 android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 * [App引导页 AppIntro](https://github.com/apl-devs/AppIntro)
+* [竖直方向的viewpager VerticalViewPager](https://github.com/castorflex/VerticalViewPager)
+* [底部导航栏 BottomNavigationBar](https://github.com/RoyWallace/BottomNavigationBar)
+* [Recyclerview分割线 RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
+
 
 ## 开源库
 * [Rxjava](https://github.com/ReactiveX/RxJava)
@@ -49,7 +54,10 @@
 * [EventBus源码分析](http://blog.csdn.net/yuanzeyao/article/details/38174537)
 * [自动化埋点](http://blog.csdn.net/hanhailong726188/article/details/46314401)
 * [long long ago 谷歌的官方文档翻译(太久了...) Android-API-Guides](https://github.com/lianghanzhen/Android-API-Guides)
-
+* [源码分析 AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+* [WebView内存泄露分析](http://blog.csdn.net/csdnedu/article/details/52955439)
+* [WebView内存泄露分析](https://my.oschina.net/zhibuji/blog/100580)
+* [新控件 新Api介绍](http://www.jianshu.com/u/0ad0a0afc409)
 ## java文章
 
 ## 面试相关
