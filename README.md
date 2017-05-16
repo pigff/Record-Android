@@ -29,7 +29,7 @@
 * [可拖拽 AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
 * [Md风格的侧滑菜单栏 MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
 * [转场动画 Material-Animations](https://github.com/lgvalle/Material-Animations)
-* [MaterialViewPager] (https://github.com/florent37/MaterialViewPager)
+* [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 * [下拉刷新 上拉加载 android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 * [App引导页 AppIntro](https://github.com/apl-devs/AppIntro)
 * [竖直方向的viewpager VerticalViewPager](https://github.com/castorflex/VerticalViewPager)
